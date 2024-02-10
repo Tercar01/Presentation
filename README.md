@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tercar01
 - 👀 I’m interested in mobile applications developement
-- 🌱 I’m currently learning Dart and Flutter
-- 💞️ I’m looking to collaborate on crossplatform apps developement
+- 🌱 I’m currently learning Dart and Flutter for crossplatform mobile applications developement
+- 💞️ I’m looking to collaborate on crossplatform applications developement projects
 - 📫 How to reach me faracoder01@gmail.com
 - 😄 Pronouns: TerCar
 - ⚡ Fun fact: coding, football, cycling, volunteering
