@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tercar,
-- 👀 I’m interested in mobile applications developement
+- 👀 I’m a mobile applications developement enthusiast
 - 🌱 I’m currently learning Dart and Flutter for crossplatform mobile applications developement
 - 💞️ I’m looking to collaborate on crossplatform applications developement projects
 - 📫 How to reach me faracoder01@gmail.com
